@@ -18,3 +18,6 @@ git add README.md
 git commit -m "first commit"
 git remote add origin git@github.com:chelseamlap/central_dogma.git
 git push -u origin master
+
+If the session is closed, the remote connection may not be recognized when you want to push changes..
+git push --set-upstream origin master
