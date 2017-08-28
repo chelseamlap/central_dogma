@@ -25,3 +25,5 @@ git push --set-upstream origin master
 OR
 
 git push -u 
+
+Upated @ 10:36 pm on 8/27 - I moved this file to a different subfolder and want to make sure that things are synced
